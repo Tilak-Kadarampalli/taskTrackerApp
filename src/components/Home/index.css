@@ -1,0 +1,63 @@
+.main-bg{
+    padding: 20px; 
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.input-form{
+  
+        padding: 8px;
+        font-size: 16px;
+        margin-right: 10px;
+        width: 300px;
+        border-radius: 4px;
+        border: 2px solid grey;
+   
+}
+
+
+.add-btn{
+  
+        padding: 8px 16px;
+        font-size: 16px;
+        background-color: black;
+        color: #fff;
+        border: 2px grey;
+        border-radius: 4px;
+        cursor: pointer;
+  
+}
+
+
+.list-item{
+
+        padding: 10px;
+        margin-bottom: 10px;
+        background-color: #f8f9fa;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width : 500px;
+ 
+}
+
+
+.complete-btn{
+
+        padding: 5px 10px;
+        background-color: transparent;
+        border: none;
+       
+        cursor: pointer;
+        margin-right: 10px;
+
+}
+
+
